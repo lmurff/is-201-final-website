@@ -1,0 +1,122 @@
+body {
+    background-color: #ee7cac;
+    font-family: 'Lora', serif;
+}
+
+.navbar {
+    width: 100%;
+    background-color: #9c2d5c;
+    display: flex;
+}
+
+.navbar ul {
+    display: flex;
+}
+
+.navbar ul li {
+    list-style:none;
+    padding:20px;
+}
+    
+
+
+.navbar ul a {
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+}
+
+
+
+.common {
+    *background-color: #000000;
+    border: solid 2px #00ff15;
+    position:absolute;
+}
+
+
+.mainbody {
+
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 100px;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Lora', serif;
+}
+
+
+.footer {
+    bottom:20px;
+    left:5px;
+    right:5px;
+    font: 8px;
+    color: rgb(88, 88, 88);
+    text-align: center;
+    top: 98%;
+    background-color: honeydew;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.subtitle {
+    text-align: center;
+
+
+
+}
+
+.subtitle h2{
+    text-decoration:underline ;
+    text-decoration-color: black;
+    text-transform: capitalize;
+}
+
+.description{
+    text-align: center;
+    color: ghostwhite;
+    font-style: italic;
+
+
+}
+
+/* These is the CSS comment area */
+
+li {
+    font-size:15px; 
+    font-style:italic; 
+    font-weight:normal;}
+
+a {color:rgb(27, 27, 27) ; text-decoration: none;}
+
+a:hover {text-decoration: underline;}
+
+a:visited {color: #cf3bb7}
+
+.resumeListHeading {font-weight: bold; font-style: normal;}
+
+.underline {text-decoration:underline;}
+
+.bold{font-weight: bold};
+
+.justify{text-align: justify;}
+
+
+/* These styles were created to demonstrate the box model */
+
+
+.post-preview {
+    text-align: center;
+    padding-top:30px;
+}
+
+.anchor{
+    text-align: center;
+
+
+}
+
